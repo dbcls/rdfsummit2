@@ -7,6 +7,7 @@ RDF summit organized by the Database Center for Life Science ([DBCLS](http://dbc
 * Dates: Feb 19-23, 2016
 * Place: Tohoku University, Miyagi, Japan
 * Host: Database Center for Life Science (DBCLS) and Tohoku Medical Megabank (ToMMo)
+* Accommodation: [Hotel Monte Hermana Sendai](http://www.monte-hermana.jp/sendai/) (see [directions](http://2014.biohackathon.org/venue))
 
 ### Meeting agenda
 
@@ -37,4 +38,5 @@ Results are recorded in the [RDF summit Wiki page](https://github.com/dbcls/rdfs
 
 * Soichi Ogishima (ToMMo, Japan)
 * Toshiaki Katayama (DBCLS, Japan)
+
 
