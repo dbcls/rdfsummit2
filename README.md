@@ -15,3 +15,7 @@ Available on the [RDF summit 2 Wiki page](https://github.com/dbcls/rdfsummit2/wi
 * [GA4GH reference server](https://github.com/ga4gh/server/tree/graph)
 * [vg](https://github.com/ekg/vg)
 
+### Japanese resources
+
+* [Togo Wiki](http://wiki.lifesciencedb.jp/mw/ReferenceGenomeGraph)
+
