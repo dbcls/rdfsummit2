@@ -10,7 +10,7 @@ Main theme of the 2nd RDF summit is development and utilization of the reference
 
 Available on the [RDF summit 2 Wiki page](https://github.com/dbcls/rdfsummit2/wiki).
 
-### Reference Genome Graph
+### Reference genome graph
 
 * [GA4GH reference server](https://github.com/ga4gh/server/tree/graph)
 * [vg](https://github.com/ekg/vg)
