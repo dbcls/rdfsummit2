@@ -4,39 +4,14 @@ RDF summit organized by the Database Center for Life Science ([DBCLS](http://dbc
 
 ## The 2nd RDF summit in 2016
 
-* Dates: Feb 19-23, 2016
-* Place: Tohoku University, Miyagi, Japan
-* Host: Database Center for Life Science (DBCLS) and Tohoku Medical Megabank (ToMMo)
-* Accommodation: [Hotel Monte Hermana Sendai](http://www.monte-hermana.jp/sendai/) (see [directions](http://2014.biohackathon.org/venue))
+Main theme of the 2nd RDF summit is development and utilization of the reference genome graph which is proposed by the [GA4GH](https://genomicsandhealth.org) for representing variations in individual genomes. In [the 1st RDF summit](https://github.com/dbcls/rdfsummit), we worked on the standardization of the RDF representation of genome/sequence annotations in DDBJ/ENA/GenBank and Ensembl. It would be ideal to efficiently integrate those two graphs for the future applications in life sciences.
 
 ### Meeting agenda
 
-Tentative topics for the 2nd RDF summit may include (but not limited to):
+Available on the [RDF summit 2 Wiki page](https://github.com/dbcls/rdfsummit2/wiki).
 
-* Try to deploy the reference genome graph method to our Japanese genome data
-* Discuss and develop up/down-stream tools for utilizing the genome graph in production
-* Standardize a best way to semantically represent and use the reference genome graph
-* and any relevant issues raised by the participants
+### Reference Genome Graph
 
-Results are recorded in the [RDF summit Wiki page](https://github.com/dbcls/rdfsummit2/wiki).
-
-### Participants
-
-* Erik Garrison (Sanger, UK)
-* Maciek Otto (UCSC, US)
-* Orion Buske (Univ of Toronto, Canada)
-* Jerven Bolleman (SIB, Swiss)
-
-* Soichi Ogishima (ToMMo, Japan)
-* Tazro Ohta (DBCLS, Japan)
-* Shin Kawano (DBCLS, Japan)
-* Atsuko Yamaguchi (DBCLS, Japan)
-* Shuichi Kawashima (DBCLS, Japan)
-* Toshiaki Katayama (DBCLS, Japan)
-
-### Organizers
-
-* Soichi Ogishima (ToMMo, Japan)
-* Toshiaki Katayama (DBCLS, Japan)
-
+* [GA4GH reference server](https://github.com/ga4gh/server/tree/graph)
+* [vg](https://github.com/ekg/vg)
 
